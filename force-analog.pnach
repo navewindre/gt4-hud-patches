@@ -1,0 +1,8 @@
+gametitle=Gran Turismo 4 Online Public Beta [SCUS-97436] (U)
+
+[Force analog cluster]
+description=force analog cluster in chase and hood cam
+author=navewindre
+
+patch=1,EE,201C2668,extended,1000000D
+patch=1,EE,201C26A8,extended,24020000
