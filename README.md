@@ -1,5 +1,5 @@
 # gt4-hud-patches
-patches to gran turismo 4 online to allow using analog/digital hud when otherwise unavailable
+patch to gran turismo 4 online to allow using analog hud when otherwise unavailable
 
 gt4 online beta changes the hud to use the small digital tacho in hood cam instead of the big digital gauges.
 
